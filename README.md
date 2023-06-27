@@ -2,6 +2,7 @@
 Nama : Sri hidayanti Nim : F55121096 Kelas : C Teknik informatika
 
 JAWABAN NOMOR 1
+
 Pilihan pengurutan:
 1. Bubble Sort
 2. Insertion Sort
@@ -161,6 +162,7 @@ Execution time: 0.001999378204345703 seconds
 Process finished with exit code 0
 
 JAWABAN NOMOR 2
+
 Pilihan perhitungan shortest path:
 1. Travelling Salesman Problem (TSP)
 2. Dijkstra
