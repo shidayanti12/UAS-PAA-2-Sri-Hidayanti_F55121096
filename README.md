@@ -6,6 +6,7 @@ JAWABAN NOMOR 1
 Pilihan pengurutan:
 1. Bubble Sort
 2. Insertion Sort
+
 Masukkan pilihan Anda (1/2): 1
 
 Bubble Sort
@@ -84,6 +85,7 @@ Execution time: 0.0009891986846923828 seconds
 Pilihan pengurutan:
 1. Bubble Sort
 2. Insertion Sort
+
 Masukkan pilihan Anda (1/2): 2
 
 Insertion Sort
@@ -169,6 +171,7 @@ Pilihan perhitungan shortest path:
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
+
 Masukkan pilihan Anda: 1
 
 Hasil TSP:
@@ -181,6 +184,7 @@ Pilihan perhitungan shortest path:
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
+
 Masukkan pilihan Anda: 2
 Masukkan vertex awal: b
 
@@ -200,6 +204,7 @@ Pilihan perhitungan shortest path:
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
+
 Masukkan pilihan Anda: 3
 
 Analisis Algoritma:
@@ -218,6 +223,7 @@ Pilihan perhitungan shortest path:
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
+
 Masukkan pilihan Anda: 0
 
 Process finished with exit code 0
