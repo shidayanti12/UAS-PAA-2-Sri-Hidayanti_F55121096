@@ -164,15 +164,18 @@ Process finished with exit code 0
 JAWABAN NOMOR 2
 
 Pilihan perhitungan shortest path:
+
 1. Travelling Salesman Problem (TSP)
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
 Masukkan pilihan Anda: 1
+
 Hasil TSP:
 Jalur Terpendek: ['a', 'g', 'e', 'c', 'e', 'f', 'd', 'b', 'a']
 Biaya Total: 65
 Waktu Komputasi: 0.0030105113983154297 detik
+
 Pilihan perhitungan shortest path:
 1. Travelling Salesman Problem (TSP)
 2. Dijkstra
@@ -180,6 +183,7 @@ Pilihan perhitungan shortest path:
 0. Keluar
 Masukkan pilihan Anda: 2
 Masukkan vertex awal: b
+
 Hasil Dijkstra:
 Jarak terpendek dari vertex awal ke setiap vertex:
 Vertex b: 0
@@ -190,12 +194,14 @@ Vertex d: 12
 Vertex g: 17
 Vertex f: 17
 Waktu Komputasi: 0.0010023117065429688 detik
+
 Pilihan perhitungan shortest path:
 1. Travelling Salesman Problem (TSP)
 2. Dijkstra
 3. Analisis Algoritma
 0. Keluar
 Masukkan pilihan Anda: 3
+
 Analisis Algoritma:
 Worst Case:
 Waktu Komputasi TSP Worst Case: 0.002526998519897461 detik
@@ -206,6 +212,7 @@ Waktu Komputasi Dijkstra Best Case: 0.0 detik
 Average Case:
 Waktu Komputasi TSP Average Case: 0.0020151138305664062 detik
 Waktu Komputasi Dijkstra Average Case: 0.0 detik
+
 Pilihan perhitungan shortest path:
 1. Travelling Salesman Problem (TSP)
 2. Dijkstra
